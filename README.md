@@ -16,7 +16,7 @@ Aplikasi ini menyediakan fungsionalitas **Create, Read, Update, Delete (CRUD)** 
 
 Sebelum menjalankan aplikasi, pastikan Anda telah menginstal komponen berikut:
 
-* **MSI File (Jika Ada):** Jika aplikasi Anda memerlukan installer `.msi` khusus (misalnya, untuk *runtime* atau dependensi tertentu), pastikan Anda telah menjalankannya. Jika tidak ada, Anda bisa menghapus bagian ini.
+* **MSI File (https://github.com/egiunpam/aeenLibraryBookManager/releases/tag/v1.0):** Jika aplikasi Anda memerlukan installer `.msi` khusus (misalnya, untuk *runtime* atau dependensi tertentu), pastikan Anda telah menjalankannya. Jika tidak ada, Anda bisa menghapus bagian ini.
     * Unduh dan jalankan file `nama_file_installer.msi` (sesuaikan dengan nama file installer Anda).
     * Ikuti instruksi instalasi yang muncul di layar.
 * **Database:** Aplikasi ini membutuhkan database. Petunjuk import ada di bagian selanjutnya.
@@ -29,7 +29,7 @@ Ikuti langkah-langkah di bawah ini untuk mengatur dan menjalankan aplikasi Anda:
 
 ### 1. Import Database
 
-Aplikasi ini menggunakan database yang sudah disediakan. Anda perlu mengimpor file `buku.sql` ke sistem manajemen database Anda (misalnya MySQL, PostgreSQL, SQLite).
+Aplikasi ini menggunakan database yang sudah disediakan. Anda perlu mengimpor file `buku.sql` ke sistem manajemen database Anda (misalnya MySQL, PostgreSQL, SQLite). https://github.com/egiunpam/aeenLibraryBookManager/releases/tag/v1.0
 
 **Contoh untuk MySQL menggunakan phpMyAdmin:**
 
